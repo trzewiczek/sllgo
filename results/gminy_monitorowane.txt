@@ -1,0 +1,369 @@
+------------------------------- D O C H O D Y ------------------------------------
+
+Dział: Dochody od osób prawnych, od osób fizycznych i od innych jednostek 
+nieposiadających osobowości prawnej oraz wydatki związane z ich poborem
+
+    Rozdział: Wpływy z innych opłat stanowiących dochody jednostek samorządu 
+    terytorialnego na podstawie ustaw
+
+        Paragrafy:
+
+        Wpływy z opłat za zezwolenia na sprzedaż napojów alkoholowych
+        |                Szczecin: 13198642.68
+        |                Strzegom:   788374.74
+        |                Pszczyna:  1253050.32
+        |                  Rybnik:  4264013.10
+        |             Rabka-Zdrój:   373096.59
+        |                   Morąg:   589031.97
+        |         Stronie Śląskie:   290200.44
+        |                  Orzysz:   317680.26
+        |                 Malbork:  1043120.40
+        |      Skarżysko-Kamienna:  1273150.80
+        |                   Oława:  1024711.74
+        |                 Wrocław: 20672781.06
+        |             Ruda Śląska:  3249579.48
+
+
+Dział: Ochrona zdrowia
+
+    Rozdział: Przeciwdziałanie alkoholizmowi
+
+        Paragrafy: 
+
+        Dochody z najmu i dzierżawy składników majątkowych Skarbu Państwa, 
+        jednostek samorządu terytorialnego lub innych jednostek zaliczanych 
+        do sektora finansów publicznych oraz innych umów o podobnym 
+        charakterze
+        |                 Malbork:     5726.61
+
+        Odsetki od dotacji oraz płatności: wykorzystanych niezgodnie 
+        z przeznaczeniem lub wykorzystanych z naruszeniem procedur, 
+        o których mowa w art. 184 ustawy, pobranych nienależnie lub 
+        w nadmiernej wysokości
+        |                Szczecin:       20.73
+
+        Wpływy z różnych opłat
+        |                 Malbork:       76.80
+
+        Otrzymane spadki, zapisy i darowizny w postaci pieniężnej
+        |                   Oława:     3600.00
+
+        Pozostałe odsetki
+        |                 Malbork:      337.44
+        |                Pszczyna:       86.40
+
+        Wpływy ze zwrotów dotacji oraz płatności, w tym wykorzystanych 
+        niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem 
+        procedur, o których mowa w art. 184 ustawy, pobranych nienależnie 
+        lub w nadmiernej wysokości
+        |                 Wrocław:    48337.95
+        |                Szczecin:     9177.60
+
+        Dotacje celowe otrzymane z gminy na zadania bieżące realizowane 
+        na podstawie porozumień (umów) między jednostkami samorządu 
+        terytorialnego
+        |                 Malbork:        0.00
+        |                Szczecin:        0.00
+
+        Wpływy z różnych dochodów
+        |                Szczecin:     2700.00
+        |                Strzegom:     4191.00
+        |                Pszczyna:     8100.00
+        |                  Rybnik:      120.00
+        |                 Malbork:     1872.00
+        |      Skarżysko-Kamienna:     3780.00
+        |                   Oława:        0.00
+        |                 Wrocław:    36691.41
+        |             Ruda Śląska:       60.12
+
+
+------------------------------- W Y D A T K I ------------------------------------
+
+Dział: Ochrona zdrowia
+
+    Rozdział: Przeciwdziałanie alkoholizmowi
+
+        Paragrafy: 
+
+        Dochody jednostek samorządu terytorialnego związane z realizacją zadań 
+        z zakresu administracji rządowej oraz innych zadań zleconych ustawami
+        |                   Morąg:   110000.00
+        |                  Rybnik:   928800.00
+        |                Szczecin:  1833428.90
+
+        Zakup usług remontowych
+        |                 Malbork:        0.00
+        |             Ruda Śląska:     6198.43
+        |                   Oława:        0.00
+        |                  Orzysz:        0.00
+
+        Opłaty z tytułu zakupu usług telekomunikacyjnych świadczonych w stacjonarnej 
+        publicznej sieci telefonicznej
+        |                Szczecin:        0.00
+        |                 Wrocław:      282.06
+        |                  Rybnik:      332.48
+        |                   Morąg:      281.68
+        |         Stronie Śląskie:       43.39
+        |                 Malbork:      416.04
+        |                   Oława:       29.79
+        |             Ruda Śląska:     2540.01
+
+        Wynagrodzenia osobowe pracowników
+        |                 Malbork:    56881.96
+        |                 Wrocław:    46410.04
+        |                Szczecin:   268179.67
+        |                  Rybnik:    56224.47
+        |             Ruda Śląska:   266618.39
+
+        Koszty postępowania sądowego i prokuratorskiego
+        |                 Wrocław:     5720.00
+        |                  Rybnik:     4700.00
+        |             Rabka-Zdrój:      836.00
+        |                  Orzysz:      718.52
+        |                 Malbork:      880.00
+        |      Skarżysko-Kamienna:     5118.00
+        |                   Oława:        0.00
+        |             Ruda Śląska:        0.00
+
+        Świadczenia społeczne
+        |                Szczecin:   157738.65
+        |             Ruda Śląska:      319.50
+
+        Zakup środków żywności
+        |                Szczecin:      247.88
+        |                Pszczyna:        0.00
+        |                  Rybnik:      225.07
+        |             Rabka-Zdrój:     1400.00
+        |                   Morąg:      695.69
+        |                 Malbork:     5015.04
+        |             Ruda Śląska:     3342.48
+
+        Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii
+        |                   Oława:        0.00
+
+        Zakup usług dostępu do sieci Internet
+        |                Szczecin:       86.10
+        |                 Wrocław:      181.47
+        |                   Morąg:      163.31
+        |                 Malbork:      166.05
+        |                   Oława:      319.87
+        |             Ruda Śląska:      751.75
+
+        Dotacje celowe otrzymane z budżetu na finansowanie i dofinansowanie 
+        kosztów realizacji inwestycji i zakupów inwestycyjnych innych 
+        jednostek sektora finansów publicznych
+        |                 Wrocław:        0.00
+
+        Dodatkowe wynagrodzenie roczne
+        |                 Malbork:    18224.39
+        |                Szczecin:    37177.07
+        |                  Rybnik:    13177.25
+        |             Ruda Śląska:    64242.85
+
+        Odpisy na zakładowy fundusz świadczeń socjalnych
+        |                 Malbork:        0.00
+        |                Szczecin:        0.00
+        |                  Rybnik:        0.00
+        |             Ruda Śląska:    14000.00
+
+        Wydatki na zakupy inwestycyjne jednostek budżetowych
+        |         Stronie Śląskie:        0.00
+        |                Szczecin:        0.00
+
+        Szkolenia pracowników niebędących członkami korpusu służby cywilnej
+        |                Szczecin:        0.00
+        |                Pszczyna:      799.50
+        |                  Rybnik:      450.00
+        |                   Morąg:        0.00
+        |                  Orzysz:     1722.00
+        |                 Malbork:        0.00
+        |      Skarżysko-Kamienna:        0.00
+        |                   Oława:      344.40
+        |             Ruda Śląska:     2660.00
+
+        Podatek od nieruchomości
+        |                Szczecin:        0.00
+
+        Zakup pomocy naukowych, dydaktycznych i książek
+        |                Szczecin:        0.00
+        |                  Rybnik:        0.00
+        |                  Orzysz:        0.00
+        |                 Malbork:        0.00
+        |      Skarżysko-Kamienna:        0.00
+        |                   Oława:        0.00
+
+        Zakup leków, wyrobów medycznych i produktów biobójczych
+        |                  Rybnik:        0.00
+        |                Szczecin:      254.27
+        |                   Oława:      115.51
+        |             Ruda Śląska:      738.75
+
+        Opłaty z tytułu zakupu usług telekomunikacyjnych świadczonych 
+        w ruchomej publicznej sieci telefonicznej
+        |                 Malbork:      297.35
+        |                   Morąg:      171.91
+        |                Szczecin:       55.00
+        |             Ruda Śląska:        0.00
+
+        Podróże służbowe krajowe
+        |                Szczecin:      252.00
+        |                  Rybnik:        0.00
+        |                   Morąg:       50.14
+        |                  Orzysz:       34.50
+        |                 Malbork:      404.22
+        |      Skarżysko-Kamienna:        0.00
+        |                   Oława:        0.00
+        |             Ruda Śląska:     1221.62
+
+        Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań 
+        zleconych do realizacji pozostałym jednostkom niezaliczanym do 
+        sektora finansów publicznych
+        |                Pszczyna:   199280.00
+        |      Skarżysko-Kamienna:    60120.00
+        |                 Wrocław:   785962.00
+
+        Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań 
+        zleconych do realizacji fundacjom
+        |                Wrocław:   638610.00
+
+        Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
+        |           Ruda Śląska:     6967.00
+
+        Wynagrodzenia bezosobowe
+        |                Szczecin:    78189.35
+        |                Strzegom:     1193.88
+        |                Pszczyna:    17672.22
+        |                  Rybnik:    29519.00
+        |             Rabka-Zdrój:    15090.00
+        |                   Morąg:    11514.51
+        |         Stronie Śląskie:    11487.38
+        |                  Orzysz:    14894.36
+        |                 Malbork:    10778.10
+        |      Skarżysko-Kamienna:    26838.00
+        |                   Oława:    55568.68
+        |                 Wrocław:     6223.21
+        |             Ruda Śląska:     9357.84
+
+        Opłaty na rzecz budżetu państwa
+        |                Strzegom:     2754.58
+
+        Dotacja podmiotowa z budżetu otrzymana przez samodzielny publiczny 
+        zakład opieki zdrowotnej utworzony przez jednostkę samorządu 
+        terytorialnego
+        |                Szczecin:    92500.00
+
+        Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań 
+        zleconych do realizacji stowarzyszeniom
+        |                Strzegom:    75517.00
+        |                Pszczyna:   127490.00
+        |                 Malbork:        0.00
+        |      Skarżysko-Kamienna:   137180.00
+        |                 Wrocław:  1519570.00
+        |             Ruda Śląska:    30000.00
+
+        Zakup energii
+        |                Szczecin:     9742.12
+        |                 Wrocław:     1754.92
+        |                  Rybnik:      975.50
+        |                   Morąg:     8201.29
+        |         Stronie Śląskie:        0.00
+        |                  Orzysz:     2097.82
+        |                 Malbork:     1981.77
+        |                   Oława:    17712.11
+        |             Ruda Śląska:    29400.22
+
+        Zakup usług zdrowotnych
+        |                Szczecin:    44385.00
+        |                Pszczyna:     2280.00
+        |                  Rybnik:        0.00
+        |         Stronie Śląskie:      700.00
+        |                 Malbork:      240.00
+        |                   Oława:        0.00
+        |             Ruda Śląska:    26557.60
+
+        Opłaty za administrowanie i czynsze za budynki, lokale 
+        i pomieszczenia garażowe
+        |                Strzegom:     1500.00
+        |                Szczecin:        0.00
+
+        Zakup materiałów i wyposażenia
+        |                Szczecin:      829.98
+        |                Strzegom:        0.00
+        |                Pszczyna:      163.98
+        |                  Rybnik:     3536.24
+        |             Rabka-Zdrój:     1007.58
+        |                   Morąg:    10655.96
+        |         Stronie Śląskie:      184.35
+        |                  Orzysz:     1451.46
+        |                 Malbork:     3967.44
+        |      Skarżysko-Kamienna:    14617.20
+        |                   Oława:     9837.42
+        |                 Wrocław:     1088.80
+        |             Ruda Śląska:    13706.10
+
+        Dotacja celowa otrzymana z budżetu przez pozostałe jednostki 
+        zaliczane do sektora finansów publicznych
+        |                Szczecin:    70000.00
+
+        Różne wydatki na rzecz osób fizycznych
+        |                Szczecin:    21018.00
+        |                Pszczyna:        0.00
+        |                  Rybnik:        0.00
+        |                  Orzysz:     3742.20
+        |                 Wrocław:    24897.15
+        |             Ruda Śląska:    23973.68
+
+        Składki na ubezpieczenia społeczne
+        |                Szczecin:    44143.24
+        |                Strzegom:        0.00
+        |                 Wrocław:     4641.25
+        |                  Rybnik:     8476.24
+        |             Rabka-Zdrój:      364.56
+        |                   Morąg:      151.90
+        |         Stronie Śląskie:      258.03
+        |                  Orzysz:     1150.12
+        |                 Malbork:     9008.62
+        |      Skarżysko-Kamienna:     2337.41
+        |                   Oława:     3747.42
+        |             Ruda Śląska:    39850.14
+
+        Składki na Fundusz Pracy
+        |                Szczecin:     6571.92
+        |                Strzegom:        0.00
+        |                 Wrocław:      722.92
+        |                  Rybnik:     1166.42
+        |             Rabka-Zdrój:        0.00
+        |                   Morąg:        0.00
+        |                  Orzysz:      226.89
+        |                 Malbork:     1029.59
+        |      Skarżysko-Kamienna:      330.48
+        |                   Oława:      541.25
+        |             Ruda Śląska:     6037.15
+
+        Różne opłaty i składki
+        |                Szczecin:     1960.00
+        |                   Morąg:      360.00
+        |                  Orzysz:        0.00
+        |                 Malbork:      420.00
+        |                   Oława:      247.00
+        |             Ruda Śląska:     1597.15
+
+        Wydatki osobowe niezaliczone do wynagrodzeń
+        |                 Malbork:        0.00
+        |                Szczecin:     1482.08
+        |             Ruda Śląska:        0.00
+
+        Zakup usług pozostałych
+        |                Szczecin:     8049.84
+        |                Strzegom:     1377.60
+        |                Pszczyna:     4280.00
+        |                  Rybnik:    10677.37
+        |             Rabka-Zdrój:     6225.55
+        |                   Morąg:     3836.49
+        |         Stronie Śląskie:     4132.83
+        |                  Orzysz:     1760.00
+        |                 Malbork:    17977.74
+        |      Skarżysko-Kamienna:    21046.00
+        |                   Oława:    28898.79
+        |                 Wrocław:   248138.83
+        |             Ruda Śląska:    44046.41

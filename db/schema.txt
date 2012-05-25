@@ -1,0 +1,53 @@
+INCOMES
+--------------------------------------------------
+  0 |      regon: REGON
+  1 |     voivod: Województwo
+  2 |     poviat: Powiat
+  3 |     parish: Gmina
+  4 |       type: Typ jednostki
+  5 |       year: Rok okresu sprawozdawczego
+  6 |     quater: Kwartał
+  7 |       date: Data sprawozdania
+  8 |       part: Dział klasyfikacji budżetowej
+  9 |    subpart: Rozdział klasyfikacji budżetowej
+ 10 |  paragraph: Paragraf klasyfikacji budżetowej
+ 11 |     source: Finansowanie
+ 12 |       plan: Plan
+ 13 |          n: Należności
+ 14 |          p: Potrącenia
+ 15 |  income_01: Dochody wykonane
+ 16 |  income_02: Dochody otrzymane
+ 17 |        sa1: Saldo końcowe - należności pozostałe do zapłaty - ogółem
+ 18 |        sa2: Saldo końcowe - należności pozostałe do zapłaty - w tym zaległości
+ 19 |        sa3: Saldo końcowe - nadpłaty
+ 20 |        sk1: Skutki obniżenia górnych stawek podatków
+ 21 |        sk2: Skutki udzielonych przez gminę ulg, odroczeń, umożeń, zwolnień, zaniechania poboru
+ 22 |        sk3: Skutki decyzji wydanych przez organ podatkowy - pole nieużywane od II kwartału 2006
+ 23 |        sk4: Skutki decyzji wydanych przez organ podatkowy - umorzenie zaległości podatkowych
+ 24 |        sk5: Skutki decyzji wydanych przez organ podatkowy - rozłożenie na raty, odroczenie terminu płatności, zwolnienie z obowiązku pobrania, ograniczenia poboru
+--------------------------------------------------
+
+SPENDINGS
+--------------------------------------------------
+  0 |      regon: REGON
+  1 |     voivod: Województwo
+  2 |     poviat: Powiat
+  3 |     parish: Gmina
+  4 |       type: Typ jednostki
+  5 |       year: Rok okresu sprawozdawczego
+  6 |     quater: Kwartał
+  7 |       date: Data sprawozdania
+  8 |       part: Dział klasyfikacji budżetowej
+  9 |    subpart: Rozdział klasyfikacji budżetowej
+ 10 |  paragraph: Paragraf klasyfikacji budżetowej
+ 11 |     source: Finansowanie
+ 12 |       plan: Plan
+ 13 | engagement: Zaangażowanie
+ 14 |    outcome: Wydatki wykonane
+ 15 |   invol_01: Zobowiązania - ogółem
+ 16 |   invol_02: Zobowiązania - wymagalne - pole nieużywane od II kwartału 2006
+ 17 |   invol_03: Zobowiązania - wymagalne powstałe w latach ubiegłych
+ 18 |   invol_04: Zobowiązania - wymagalne powstałe w roku bieżącym
+ 19 | outcome_01: Wydatki, które nie wygasły z upływem roku budżetowego
+ 20 | outcome_02: Wydatki, zrealizowane w ramach funduszu sołeckiego
+--------------------------------------------------
